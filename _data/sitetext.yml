@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Roya Beauty!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -98,8 +98,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Kimia Kafil"
+        role: "Skin Care Specialist"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Roya Ardroudi"
+        role: "Master Esthetician"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
